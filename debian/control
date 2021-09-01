@@ -10,6 +10,7 @@ Build-Depends: debhelper (>= 10.5.1),
                meson,
                valac
 Standards-Version: 4.1.1
+Homepage: https://github.com/danrabbit/nimbus
 
 Package: com.github.danrabbit.nimbus
 Architecture: any
